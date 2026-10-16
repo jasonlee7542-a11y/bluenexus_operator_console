@@ -1,0 +1,17 @@
+{
+  "temperature_high_c": 120.0,
+  "temperature_low_c": 0.0,
+  "sec_rise_pct": 20.0,
+  "baseline_days": 14,
+  "minimum_coverage": 0.8,
+  "iqr_multiplier": 1.5,
+  "persistent_days": 3,
+  "peer_lookback_days": 60,
+  "peer_output_tolerance": 0.2,
+  "minimum_peers": 5,
+  "delivery_gap_pct": 10.0,
+  "large_delivery_gap_pct": 50.0,
+  "recovery_change_pp": 10.0,
+  "ph_low": 6.5,
+  "ph_high": 8.5
+}
